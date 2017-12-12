@@ -4,40 +4,40 @@
   "result":[
     {
       "addressId":"100001",
-      "userName":"JackBean",
-      "streetName":"北京市朝阳区朝阳公园1",
+      "userName":"Jack",
+      "streetName":"北京市朝阳区朝阳公园",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":true
     },
     {
       "addressId":"100002",
-      "userName":"JackBean",
-      "streetName":"北京市朝阳区朝阳公园2",
+      "userName":"Avon",
+      "streetName":"北京市天安门广场6号",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false
     },
     {
       "addressId":"100003",
-      "userName":"JackBean",
-      "streetName":"北京市朝阳区朝阳公园3",
+      "userName":"Tom",
+      "streetName":"北京市大前门",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false
     },
     {
       "addressId":"100004",
-      "userName":"JackBean",
-      "streetName":"北京市朝阳区朝阳公园4",
+      "userName":"Allen",
+      "streetName":"北京市鸟巢",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false
     },
     {
       "addressId":"100005",
-      "userName":"JackBean",
-      "streetName":"北京市朝阳区朝阳公园5",
+      "userName":"Alice",
+      "streetName":"北京市首钢体育馆",
       "postCode":"100001",
       "tel":"12345678901",
       "isDefault":false

@@ -74,6 +74,7 @@ var vm = new Vue({
             var deleteItem = this.productList.indexOf(this.currentDeleteItem);
             this.productList.splice(deleteItem, 1);
             this.showDeleteDialog = false;
+            this.calcTotlePrice();
         }
     }
 })

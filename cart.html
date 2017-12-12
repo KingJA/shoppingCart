@@ -172,8 +172,9 @@
                 </div>
             </div>
         </div>
+        <div class="md-overlay" v-if="showDeleteDialog" @click="showDeleteDialog=false"></div>
     </div>
-    <div class="md-overlay" v-if="showDeleteDialog"></div>
+   <!-- <div class="md-overlay" v-if="showDeleteDialog"></div>-->
 </div>
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
 <script src="js/lib/vue-resource.js"></script>
